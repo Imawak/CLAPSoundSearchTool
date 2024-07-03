@@ -1,0 +1,4 @@
+./CLAPSoundSearchTool/Data/Audio
+./CLAPSoundSearchTool/Data/audio_embeddings.csv
+./CLAPSoundSearchTool/Data/audio_embeddings.parquet
+./CLAPSoundSearchTool/Data/ckpt_file/630k-audioset-best.pt
