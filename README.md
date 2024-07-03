@@ -1,5 +1,5 @@
 # CLAPSoundSearchTool
-Sound search tool based on laion-CLAP.Retrieving related audio by entering text/importing audio.Used for sound design.
+Sound search tool based on laion-CLAP.Retrieving related audio by entering text/importing audio.Used for sound design.Before compilation,you should first download ckpt file 630k-audioset-best.pt(https://huggingface.co/lukewys/laion_clap/blob/main/630k-audioset-best.pt) and put it into .\CLAPSoundSearchTool\Data\ckpt_file，becasuse it uses local ckpt file.Of course you can change this part in code.
 
 Code based on：
 
