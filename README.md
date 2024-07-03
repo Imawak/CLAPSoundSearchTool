@@ -11,4 +11,4 @@ FAISS:https://github.com/facebookresearch/faiss
 
 Thanks to all these developers!
 
-Here is code explanation video:
+Here is code explanation video:https://www.bilibili.com/video/BV1zehCetEZW/
